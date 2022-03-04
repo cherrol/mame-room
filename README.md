@@ -1,5 +1,7 @@
 # Download mame rooms
-> need node env
+
+> Downlaod file need node environment  
+> Room url datas from https://archive.org/details/mame-merged
 
 - install npm packages
 
